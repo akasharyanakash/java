@@ -1,0 +1,158 @@
+DateTime: 2026-03-19T09:10:39.248720500
+ClientId: client-1773741372623-79070
+User: Anjali
+Bot: Nice to meet you, Anjali 😊
+Aap kis course me interest rakhte hain?
+------------------------------------------------
+DateTime: 2026-03-19T09:10:46.423675700
+ClientId: client-1773741372623-79070
+User: BCA
+Bot: Achha choice hai.
+Ab aap apna phone number ya email bhej dijiye, phir main aapki details save kar dunga.
+------------------------------------------------
+DateTime: 2026-03-19T09:10:56.892669200
+ClientId: client-1773741372623-79070
+User: student@gmail.com
+Bot: Done! Aapki inquiry successfully save kar li gayi hai.
+Ab main aapko next details bhi bata sakta hoon.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:04.618085300
+ClientId: client-1773741372623-79070
+User: fees
+Bot: Fees course ke hisaab se decide hoti hai. Exact amount ke liye admission office se confirm karna best rahega.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:07.890339900
+ClientId: client-1773741372623-79070
+User: contact
+Bot: College contact number hai: +91-9876543210
+------------------------------------------------
+DateTime: 2026-03-19T09:11:12.240522200
+ClientId: client-1773741372623-79070
+User: admission
+Bot: Agar aap admission lena chahte hain, to main aapko documents aur contact details bhi bata sakta hoon.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:17.784658400
+ClientId: client-1773741372623-79070
+User: documents
+Bot: Admission ke liye generally 10th marksheet, 12th marksheet, ID proof aur passport size photos ki zarurat hoti hai.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:22.076262400
+ClientId: client-1773741372623-79070
+User: fees
+Bot: Agar aap chahein to main aapko fees se related next step bata sakta hoon, jaise kis office se contact karna hai.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:24.575215700
+ClientId: client-1773741372623-79070
+User: documents
+Bot: Admission ke liye generally 10th marksheet, 12th marksheet, ID proof aur passport size photos ki zarurat hoti hai.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:28.043272700
+ClientId: client-1773741372623-79070
+User: contact
+Bot: Aap hume +91-9876543210 par contact kar sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T09:11:33.187702100
+ClientId: client-1773741372623-79070
+User: BBA
+Bot: BBA un students ke liye useful hota hai jo business ya management field me jaana chahte hain.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:10.155700600
+ClientId: client-1773741372623-79070
+User: Akash
+Bot: Main aapki help kar sakta hoon. Aap BCA, BBA, fees, admission, documents ya contact details ke baare me pooch sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:12.942605100
+ClientId: client-1773741372623-79070
+User: BCA
+Bot: Agar aap computer aur software side me jaana chahte hain, to BCA ek popular course hai. Ye 3 saal ka hota hai.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:14.483036200
+ClientId: client-1773741372623-79070
+User: fees
+Bot: Agar aap chahein to main aapko fees se related next step bata sakta hoon, jaise kis office se contact karna hai.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:16.047502300
+ClientId: client-1773741372623-79070
+User: contact
+Bot: Aap hume +91-9876543210 par contact kar sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:17.621139400
+ClientId: client-1773741372623-79070
+User: BCA
+Bot: BCA ek 3 saal ka undergraduate course hai. Isme computer applications, programming, database aur software se related subjects hote hain.
+------------------------------------------------
+DateTime: 2026-03-19T10:58:18.820710500
+ClientId: client-1773741372623-79070
+User: documents
+Bot: Admission ke liye generally 10th marksheet, 12th marksheet, ID proof aur passport size photos ki zarurat hoti hai.
+------------------------------------------------
+DateTime: 2026-03-19T11:09:45.792604300
+ClientId: client-1773741372623-79070
+User: Akash
+Bot: Agar aap chahein to main aapko BCA, BBA, admission ya fees ke baare me simple me bata sakta hoon.
+------------------------------------------------
+DateTime: 2026-03-19T11:09:56.822562500
+ClientId: client-1773741372623-79070
+User: BBA
+Bot: BBA un students ke liye useful hota hai jo business ya management field me jaana chahte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:10:02.603947200
+ClientId: client-1773741372623-79070
+User: documents
+Bot: Common documents me marksheets, ID proof aur photos aate hain. Final list ke liye office se confirm kar lena better hota hai.
+------------------------------------------------
+DateTime: 2026-03-19T11:10:07.021406
+ClientId: client-1773741372623-79070
+User: contact
+Bot: College contact number hai: +91-9876543210
+------------------------------------------------
+DateTime: 2026-03-19T11:10:08.552549700
+ClientId: client-1773741372623-79070
+User: admission
+Bot: Admission process abhi open hai. Aap college office me 10:00 AM se 3:00 PM ke beech visit kar sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:10:09.726271800
+ClientId: client-1773741372623-79070
+User: documents
+Bot: Admission ke liye generally 10th marksheet, 12th marksheet, ID proof aur passport size photos ki zarurat hoti hai.
+------------------------------------------------
+DateTime: 2026-03-19T11:10:10.863737300
+ClientId: client-1773741372623-79070
+User: fees
+Bot: Agar aap chahein to main aapko fees se related next step bata sakta hoon, jaise kis office se contact karna hai.
+------------------------------------------------
+DateTime: 2026-03-19T11:51:43.914732400
+ClientId: client-1773741372623-79070
+User: Akash
+Bot: Main aapki help kar sakta hoon. Aap BCA, BBA, fees, admission, documents ya contact details ke baare me pooch sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:51:45.983202100
+ClientId: client-1773741372623-79070
+User: contact
+Bot: Aap hume +91-9876543210 par contact kar sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:51:48.167221800
+ClientId: client-1773741372623-79070
+User: BBA
+Bot: BBA un students ke liye useful hota hai jo business ya management field me jaana chahte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:52:34.318982500
+ClientId: client-1773741372623-79070
+User: Priya
+Bot: Main aapki help kar sakta hoon. Aap BCA, BBA, fees, admission, documents ya contact details ke baare me pooch sakte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:52:35.141489700
+ClientId: client-1773741372623-79070
+User: BBA
+Bot: BBA un students ke liye useful hota hai jo business ya management field me jaana chahte hain.
+------------------------------------------------
+DateTime: 2026-03-19T11:52:35.370319400
+ClientId: client-1773741372623-79070
+User: admission
+Bot: Admission ke liye aapko basic documents ke saath inquiry ya office visit karna hota hai.
+------------------------------------------------
+DateTime: 2026-03-19T11:52:36.002647700
+ClientId: client-1773741372623-79070
+User: fees
+Bot: Agar aap chahein to main aapko fees se related next step bata sakta hoon, jaise kis office se contact karna hai.
+------------------------------------------------
